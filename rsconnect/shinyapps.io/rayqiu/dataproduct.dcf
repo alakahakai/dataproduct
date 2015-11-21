@@ -1,8 +1,8 @@
 name: dataproduct
 account: rayqiu
 server: shinyapps.io
-bundleId: 315784
+bundleId: 315788
 url: https://rayqiu.shinyapps.io/dataproduct
-when: 1448139612.81879
+when: 1448140121.21195
 asMultiple: FALSE
 asStatic: FALSE

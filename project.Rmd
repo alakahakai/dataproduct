@@ -1,11 +1,10 @@
 ---
-title: "Develop Data Product"
+title: "Develop Data Products"
+subtitle: "State County Map"
 author: "Ray Qiu"
-date: "November 21st, 2015"
-output: 
-  html_document: 
-    keep_md: yes
-    theme: journal
+date: "November 21, 2015"
+output: html_document
+runtime: shiny
 ---
 
 #### Project Overview
@@ -21,4 +20,3 @@ The usage of the application is very simple.  Just pick the state from the selec
 The application is posted on Rstudio's shiny server at: https://rayqiu.shinyapps.io/dataproduct
 
 #### Give it a try and have fun! :-)
-
