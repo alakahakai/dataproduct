@@ -1,13 +1,19 @@
 ---
 title: "Develop Data Products"
-subtitle: "State County Map"
 author: "Ray Qiu"
 date: "November 21st, 2015"
-output: 
+output:
   html_document:
-    keep_md: true
+    keep_md: yes
     theme: journal
 runtime: shiny
+subtitle: State County Map
+resource_files:
+- app/server.R
+- app/ui.R
+- data/data.RData
+- data/statesNames.RData
+- data/counties.rds
 ---
 
 #### Project Overview
