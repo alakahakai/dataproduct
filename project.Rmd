@@ -3,7 +3,10 @@ title: "Develop Data Products"
 subtitle: "State County Map"
 author: "Ray Qiu"
 date: "November 21st, 2015"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
+    theme: journal
 runtime: shiny
 ---
 
